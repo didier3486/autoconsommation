@@ -12,8 +12,8 @@ modifier les deux fichiers ci dessous en indiquant l'adresse IP de votre Pi serv
 exécuter le fichier tcpserver.py sur le serveur.
 exécuter le fichier serial_read6.py sur le client.
 le client affiche la consommation instantanée en Watts mesurée par le compteur.
-le serveur allume une LED verte si le compteur indique 00000 Watts.
-le client allume une LED rouge si le compteur indique plus de 00000 Watts.
+le serveur allume une LED verte si le compteur indique 00000 Watts (autoconsommation complète grâce à des panneaux solaires par exemple).
+le client allume une LED rouge si le compteur indique plus de 00000 Watts (consommation payante).
 
 bibliographie:
 (1) ENI éditions, vidéo, Raspberry Pi - Apprenez à récupérer les données de votre compteur Linky.
