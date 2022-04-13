@@ -13,4 +13,5 @@ exécuter le fichier serial_read6.py sur le client
 
 bibliographie:
 (1) ENI éditions, vidéo, Raspberry Pi - Apprenez à récupérer les données de votre compteur Linky
+
 livre Elektor. Learning Python with Raspberry Pi
